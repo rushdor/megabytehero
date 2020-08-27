@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+}
+body {
+    width: 100%;
+    max-width: 800px;
+}
+
+
+.navigation{
+}
+
+
+li {
+    display: inline;
+    margin: 1rem
+}
+
+.sidebar {
+
+    width: 30%;
+    float: right;
+}
+
+.maincol {
+    width: 68%;
+    float: left;
+}
